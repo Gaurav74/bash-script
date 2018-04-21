@@ -1,0 +1,5 @@
+#! /bin/bash
+# ? or \? as escape sequence
+echo enter your name ?
+read name
+echo $name -my name
