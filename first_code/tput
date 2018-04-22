@@ -1,0 +1,13 @@
+tput bel
+tput blink
+echo "this is BLINKING"
+tput bold
+echo "This is bold"
+tput rev
+echo "this is REVERSE"
+tput rev
+tput smul
+echo "THis is underline"
+tput rmul
+tput lines
+tput cols
